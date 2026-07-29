@@ -12,3 +12,9 @@ This project is an unofficial, community-made modification for *Titan Quest Anni
 
 ### Warranty & Liability
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. YOU USE THIS MODIFICATION ENTIRELY AT YOUR OWN RISK.
+
+## ⚠️ Important Security Warning & Forks
+
+* **Official Source Only:** This repository is the only official distribution channel for this modification. I cannot verify or guarantee the safety of files downloaded from any other source.
+* **No Affiliation with Forks:** Because this project is open-source, other users can "fork" or copy this repository. I am entirely independent of these forks. I do not review, endorse, or maintain code modified by third parties.
+* **Use Caution:** Third-party variations of this DLL may contain broken, unauthorized, or malicious code. If you choose to download or compile a fork of this project, you do so entirely at your own risk. Always check the source code before running custom binaries.
