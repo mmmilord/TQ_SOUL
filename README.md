@@ -1,4 +1,4 @@
-# TQ_SOUL
+# SOUL
 
 ## Legal Disclaimer
 
