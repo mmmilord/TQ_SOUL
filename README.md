@@ -10,11 +10,13 @@
 2. Run `SoulPatch.bat`
   * Choose [1] Install
 
-The game then will patch your vanilla files. Make sure you don't have any modified executable or libaries, such as 4GB patch or it will refuse to install. Afterwards, load the game as normal. 
+The game then will patch your vanilla files. Make sure you don't have any modified executable or libaries, such as 4GB patch or it will refuse to install. 
 
 3. Download/Subscribe the mod from [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3421932842)
+
+Afterwards, load the game as normal.
    
-4. Play Custom Quest -> `SoulExp` -> Load your character
+5. Play Custom Quest -> `SoulExp` -> Load your character
    
   
 
