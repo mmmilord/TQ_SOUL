@@ -12,6 +12,8 @@
 
 The game then will patch your vanilla files. Make sure you don't have any modified executable or libaries, such as 4GB patch or it will refuse to install. Afterwards, load the game as normal. 
 
+3. Play Custom Quest -> `SoulExp` -> Load your character
+
 ## Uninstallation
 When you no longer wish to play Soul
 1. Run `SoulPatch.bat`
