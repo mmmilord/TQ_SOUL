@@ -12,7 +12,11 @@
 
 The game then will patch your vanilla files. Make sure you don't have any modified executable or libaries, such as 4GB patch or it will refuse to install. Afterwards, load the game as normal. 
 
-3. Play Custom Quest -> `SoulExp` -> Load your character
+3. Download the mod from [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3421932842)
+   
+4. Play Custom Quest -> `SoulExp` -> Load your character
+   
+  
 
 ## Uninstallation
 When you no longer wish to play Soul
