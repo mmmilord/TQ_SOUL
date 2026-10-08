@@ -1,5 +1,34 @@
 # SOUL
 
+## Installation 
+1. Drag the following files into your Game folder `Steam\steamapps\common\Titan Quest Anniversary Edition`
+   * Soul.dll
+   * SoulCore.dll
+   * Soul.lib
+   * SoulColours.cfg
+   * SoulPatch.bat
+2. Run `SoulPatch.bat`
+  * Choose [1] Install
+
+The game then will patch your vanilla files. Make sure you don't have any modified executable or libaries, such as 4GB patch or it will refuse to install. Afterwards, load the game as normal. 
+
+## Uninstallation
+When you no longer wish to play Soul
+1. Run `SoulPatch.bat`
+  * Choose [2] Uninstall
+    
+Your original game will be restored. The Soul files can be left in the folder safely, if you want to resume at a later date, but you can also remove them.
+
+If there are any complications, the original files can be restored just by deleting 
+  * TQ.exe
+  * Game.DLL
+  * Engine.DLL
+
+ And `verifying integrity of game files` through Steam's Game options (Game Library: Titan Quest Anniversary Edition -> Properties -> Installed Files)
+
+
+
+
 ## Legal Disclaimer
 
 ### Unofficial Modification
