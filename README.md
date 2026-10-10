@@ -16,7 +16,7 @@ The game then will patch your vanilla files. Make sure you don't have any modifi
 
 Afterwards, load the game as normal.
    
-5. Play Custom Quest -> `SoulExp` -> Load your character
+5. Play Custom Quest -> `Soul_Exp` -> Load your character
    
   
 
